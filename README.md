@@ -21,5 +21,5 @@ I've left most of the comments in place to show the original, which used potenti
 and the inspiration comes from:
 https://minimosynth.com/lunamod_generator/
 
-Theminimosynths are great. Buy one :) Or build one ;)
+The minimosynths are great. Buy one :) Or build one ;)
 
