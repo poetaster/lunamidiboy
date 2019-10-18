@@ -1,5 +1,10 @@
 # lunamidiboy
-A tribute to the lunamod synth for midiboy/adruboy. Plays a 64 element sequence with PWM. 
+A tribute to the lunamod synth for midiboy/adruboy. Plays a 64 element sequence with PWM. Record changes to the sequence in realtime.
+
+Install on a Midiboy or Arduboy with the Arduino IDE.
+
+
+
 
 The up and down keys change Frequency.
 
