@@ -15,6 +15,9 @@ Hold the B key to record changes in Frequency dynamically. There is a rough anim
 The source is based on 
 http://hosted.hackaday.com/lunaMod45remix.pde
 
+I've left most of the comments in place to show the original, which used potentiometers for tempo/duration and frequency.
+
+
 and the inspiration comes from:
 https://minimosynth.com/lunamod_generator/
 
