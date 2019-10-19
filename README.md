@@ -1,5 +1,6 @@
 # lunamidiboy
-A tribute to the lunamod synth for midiboy/adruboy. Plays a 64 element sequence with PWM. 
+
+tribute to the lunamod synth for midiboy/adruboy. Plays a 64 element sequence with PWM. 
 
 The up and down keys change Frequency.
 
@@ -19,4 +20,3 @@ and the inspiration comes from:
 https://minimosynth.com/lunamod_generator/
 
 The minimosynths are great. Buy one :) Or build one ;)
-
